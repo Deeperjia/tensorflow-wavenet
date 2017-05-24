@@ -14,7 +14,7 @@ Dependencies ( VERSION MUST BE MATCHED EXACTLY! )
 
 Dataset
 ---
-清华30小时中文数据集：http://data.cslt.org/thchs30/standalone.html
+[清华30小时中文数据集](http://data.cslt.org/thchs30/standalone.html)
 
 Network Model
 ---
