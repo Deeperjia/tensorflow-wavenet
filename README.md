@@ -1,6 +1,6 @@
 Speech-to-Text-WaveNet : End-to-end sentence level Chinese speech recognition using DeepMind's WaveNet
 =
-A tensorflow implementation for Chinese speech recognition based on DeepMind's WaveNet: A Generative Model for Raw Audio. (Hereafter the Paper: https://arxiv.org/abs/1609.03499)
+A tensorflow implementation for Chinese speech recognition based on DeepMind's WaveNet: A Generative Model for Raw Audio. ([Hereafter the Paper]( https://arxiv.org/abs/1609.03499))
 
 Version
 ---
@@ -33,5 +33,6 @@ python3 test.py
 
 Other resources
 ---
-1. ibab's WaveNet(speech synthesis) tensorflow implementationt
-2. https://github.com/buriburisuri/speech-to-text-wavenet#version
+1. [TensorFlow练习15: 中文语音识别](http://blog.topspeedsnail.com/archives/10696#more-10696)
+2. [ibab's WaveNet(speech synthesis) tensorflow implementationt](https://github.com/ibab/tensorflow-wavenet)
+3. [buriburisuri's WaveNet(English speech recognition) tensorflow and sugartensor implementationt](https://github.com/buriburisuri/speech-to-text-wavenet#version)
