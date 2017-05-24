@@ -33,5 +33,5 @@ python3 test.py
 
 Other resources
 ---
-1. https://github.com/ibab/tensorflow-wavenet
+1. ibab's WaveNet(speech synthesis) tensorflow implementationt
 2. https://github.com/buriburisuri/speech-to-text-wavenet#version
