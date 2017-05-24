@@ -16,6 +16,12 @@ Dataset
 ---
 [清华30小时中文数据集](http://data.cslt.org/thchs30/standalone.html)
 
+Directories
+---
+1. cache: save data featrue and word dictionary
+2. data: wav files and related labels
+3. model: save the models
+
 Network model
 ---
 1. Data random shuffle per epoch
