@@ -6,7 +6,7 @@ Version
 ---
 Current Version : 0.0.1
 
-Dependencies ( VERSION MUST BE MATCHED EXACTLY! )
+Dependencies
 ---
 1. python == 3.5
 2. tensorflow == 1.0.0
