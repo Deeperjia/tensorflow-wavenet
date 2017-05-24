@@ -16,7 +16,7 @@ Dataset
 ---
 [清华30小时中文数据集](http://data.cslt.org/thchs30/standalone.html)
 
-Network Model
+Network model
 ---
 1. Data random shuffle per epoch
 2. Xavier initialization
